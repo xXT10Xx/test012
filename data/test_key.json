@@ -1,0 +1,11 @@
+{
+  "id": "d1d730ee-9e32-42c9-a0fc-841e5c5f8c4b",
+  "key": "test_key",
+  "value": {
+    "name": "test",
+    "value": 42
+  },
+  "created_at": "2025-08-15T19:04:13.209432800Z",
+  "updated_at": "2025-08-15T19:04:13.209432800Z",
+  "metadata": {}
+}

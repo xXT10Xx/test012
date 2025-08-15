@@ -1,0 +1,12 @@
+server:
+  base_url: "https://jsonplaceholder.typicode.com"
+  timeout_seconds: 30
+  retry_attempts: 3
+
+logging:
+  level: "info"
+  file_path: "./logs/app.log"
+
+storage:
+  data_dir: "./data"
+  max_file_size_mb: 100
